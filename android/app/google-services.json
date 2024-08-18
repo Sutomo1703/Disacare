@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "583518592360",
+    "firebase_url": "https://disacare-4aa7e-default-rtdb.firebaseio.com",
+    "project_id": "disacare-4aa7e",
+    "storage_bucket": "disacare-4aa7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583518592360:android:c7b5d3fdafbcd0297e4add",
+        "android_client_info": {
+          "package_name": "com.example.flutter_disacare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo2-i8RhPolUTDERuu0Rk8xWOqCzNT-PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583518592360:android:0c80b123f0478e257e4add",
+        "android_client_info": {
+          "package_name": "com.sutomo.flutter_disacare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo2-i8RhPolUTDERuu0Rk8xWOqCzNT-PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
